@@ -1,6 +1,4 @@
-- Hi, I’m KajalDixit.
-- I m persuing PG diploma in AI.
-- Done B.S.C in Mathematics from Delhi University.
+
 - 📫 How to reach me ...kajaldixit0555@gmail.com
 
 <!---
